@@ -1,0 +1,18 @@
+First install npm
+Then run command as root:-
+sudo npm install expo-cli -g --unsafe-perm
+Then run normally:-
+expo init (appname)
+But if error comes with version:-
+Then run:-
+sudo npm install -g n
+sudo n latest
+expo init (appname)
+expo start
+then scan qrcode in android expo app to debug app
+then write codes like using reusable items in seperate components folder,props,usestate,etc.
+After all these at time of deployment or converting it to apk file run:
+Change android package name:com.(appname).myapp
+expo build:android
+Then login to expo dashboard:-
+u will find your build in queue
