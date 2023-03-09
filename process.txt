@@ -16,3 +16,4 @@ Change android package name:com.(appname).myapp
 expo build:android
 Then login to expo dashboard:-
 u will find your build in queue
+After few days if it freezes just go and change database password from railway in django settings.py of todoreactapi
