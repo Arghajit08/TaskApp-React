@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Daily Tasks",
+    "name": "Tasks",
     "slug": "diary",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -25,11 +25,15 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package":"com.diary.myapp"
-
+      "package": "com.Tasks.myapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b8896155-bce5-4521-95cf-4781b364d0bb"
+      }
     }
   }
 }
