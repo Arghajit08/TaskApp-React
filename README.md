@@ -3,13 +3,7 @@
 ## Demo:-
 https://github.com/Arghajit08/TaskApp-React/assets/89945847/6c41979a-98fc-475f-b24f-66a4217c608c
 ## Corresponding Logs Data:-
-<center>
-<img src="./images/img.png" alt="logs-data">
-</center>
-
-
-
-
+![logs](https://github.com/Arghajit08/TaskApp-React/assets/89945847/ad980c81-7409-4228-a6d3-6551281fad26)
 ## Installation Process:-
 ## 1.Install NPM(UBUNTU)
 ```
