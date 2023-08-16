@@ -4,7 +4,7 @@
 https://github.com/Arghajit08/TaskApp-React/assets/89945847/6c41979a-98fc-475f-b24f-66a4217c608c
 ## Corresponding Logs Data:-
 <center>
-<img src="img.png" alt="logs-data">
+<img src="./images/img.png" alt="logs-data">
 </center>
 
 
