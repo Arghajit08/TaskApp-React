@@ -1,5 +1,15 @@
 # TaskApp-React
 ## Currently out of service for sdk mismatch of 47.0.0 or 48.0.0 and 49.0.0.New React-Native policy allowing android security to stop apps.
+## Demo:-
+https://github.com/Arghajit08/TaskApp-React/assets/89945847/6c41979a-98fc-475f-b24f-66a4217c608c
+## Corresponding Logs Data:-
+<center>
+<img src="./images/img.png" alt="logs-data">
+</center>
+
+
+
+
 ## Installation Process:-
 ## 1.Install NPM(UBUNTU)
 ```
